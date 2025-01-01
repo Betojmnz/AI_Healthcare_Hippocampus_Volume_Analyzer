@@ -10,3 +10,14 @@ Exploratory Data Analysis:
 * and understood the layout of the data
 
 ## Section 2
+Training of a Segmentation CNN:
+* Functional code for training the segmentation model
+* Test report with Dice scores on test set.
+* Trained model PyTorch parameter file (model.pth)
+
+## Section 3
+Integrating into a Clinical Network:
+* Code that runs inference on a DICOM volume and produces a DICOM report
+* A report.dcm file with a sample report
+* Screenshots of the report shown in the OHIF viewer
+* Validation Plan
